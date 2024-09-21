@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gian-Joebert-Caparas
-- 👀 I’m interested in Logical Programming
-- 🌱 I’m currently learning System Programming
+- 👀 I’m interested in AI 
+- 🌱 I’m currently learning the Fundamentals of Programming
 - 💞️ I’m looking to collaborate on secret hehe
 - 📫 How to reach me just contact me hahahha
 - 😄 Pronouns: He/Him
